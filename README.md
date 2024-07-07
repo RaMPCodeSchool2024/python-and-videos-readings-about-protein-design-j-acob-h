@@ -13,7 +13,7 @@ This assignment attempts to build on the skills you learned in the previous assi
 
 You will complete these coding challenges in the same notebook called homework4.ipynb. This notebook has a set of instructions for you to follow.
 
-* [ ] Complete the `homework4.ipynb` notebook
+* [x] Complete the `homework4.ipynb` notebook
 
 ## Turn in homework assignment
 
@@ -39,7 +39,7 @@ Now you need to commit and push your changes to your repository. You can do this
 - [Short article describing a cool ML protein design application](https://elifesciences.org/articles/79310)
 - [Really nice paper describing the high-level goals/techniques of ML for protein design](https://www.nature.com/articles/s41587-024-02127-0)
 
-* [ ] Commit and push your changes to your repository
+* [x] Commit and push your changes to your repository
 
 ## Final notes
 
